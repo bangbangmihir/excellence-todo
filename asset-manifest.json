@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/excellence-todo/static/css/main.1002911d.chunk.css",
+    "main.js": "/excellence-todo/static/js/main.5d9b7282.chunk.js",
+    "main.js.map": "/excellence-todo/static/js/main.5d9b7282.chunk.js.map",
+    "runtime-main.js": "/excellence-todo/static/js/runtime-main.8cff3e74.js",
+    "runtime-main.js.map": "/excellence-todo/static/js/runtime-main.8cff3e74.js.map",
+    "static/css/2.4be38407.chunk.css": "/excellence-todo/static/css/2.4be38407.chunk.css",
+    "static/js/2.1e42917d.chunk.js": "/excellence-todo/static/js/2.1e42917d.chunk.js",
+    "static/js/2.1e42917d.chunk.js.map": "/excellence-todo/static/js/2.1e42917d.chunk.js.map",
+    "index.html": "/excellence-todo/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/excellence-todo/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.1002911d.chunk.css.map": "/excellence-todo/static/css/main.1002911d.chunk.css.map",
+    "static/js/2.1e42917d.chunk.js.LICENSE.txt": "/excellence-todo/static/js/2.1e42917d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cff3e74.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.1e42917d.chunk.js",
+    "static/css/main.1002911d.chunk.css",
+    "static/js/main.5d9b7282.chunk.js"
+  ]
+}
